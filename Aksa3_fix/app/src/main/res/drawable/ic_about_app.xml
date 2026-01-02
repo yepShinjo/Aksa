@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="21dp"
+    android:height="21dp"
+    android:viewportWidth="21"
+    android:viewportHeight="21">
+    <!-- Lingkaran background -->
+    <path
+        android:fillColor="#FDF7F1"
+        android:pathData="M10.5,0
+            a10.5,10.5 0 1,0 0,21
+            a10.5,10.5 0 1,0 0,-21"/>
+    <!-- Group: icon diperkecil dan ditengah -->
+    <group
+        android:scaleX="0.85"
+        android:scaleY="0.85"
+        android:translateX="1.6"
+        android:translateY="1.6">
+        <path
+            android:fillColor="#00000000"
+            android:fillType="evenOdd"
+            android:pathData="M1.292,10.296C0.219,6.946 1.473,3.117 4.99,1.984C6.84,1.387 8.882,1.739 10.42,2.896C11.875,1.771 13.992,1.391 15.84,1.984C19.357,3.117 20.619,6.946 19.547,10.296C17.877,15.606 10.42,19.696 10.42,19.696C10.42,19.696 3.018,15.668 1.292,10.296Z"
+            android:strokeWidth="1.5"
+            android:strokeColor="#000000"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M14.42,5.398C15.49,5.744 16.246,6.699 16.337,7.82"
+            android:strokeWidth="1.5"
+            android:strokeColor="#000000"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+</vector>

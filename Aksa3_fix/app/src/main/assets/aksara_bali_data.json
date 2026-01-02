@@ -1,0 +1,350 @@
+[
+    {
+        "imageAssetName": "aksara_ha.png",
+        "latin": "Ha",
+        "description_id": "Aksara wianjana untuk konsonan 'h'",
+        "description_en": "Wianjana character for consonant 'h'"
+    },
+    {
+        "imageAssetName": "aksara_na.png",
+        "latin": "Na",
+        "description_id": "Aksara wianjana untuk konsonan 'n'",
+        "description_en": "Wianjana character for consonant 'n'"
+    },
+    {
+        "imageAssetName": "aksara_ca.png",
+        "latin": "Ca",
+        "description_id": "Aksara wianjana untuk konsonan 'c'",
+        "description_en": "Wianjana character for consonant 'c'"
+    },
+    {
+        "imageAssetName": "aksara_ra.png",
+        "latin": "Ra",
+        "description_id": "Aksara wianjana untuk konsonan 'r'",
+        "description_en": "Wianjana character for consonant 'r'"
+    },
+    {
+        "imageAssetName": "aksara_ka.png",
+        "latin": "Ka",
+        "description_id": "Aksara wianjana untuk konsonan 'k'",
+        "description_en": "Wianjana character for consonant 'k'"
+    },
+    {
+        "imageAssetName": "aksara_da.png",
+        "latin": "Da",
+        "description_id": "Aksara wianjana untuk konsonan 'd'",
+        "description_en": "Wianjana character for consonant 'd'"
+    },
+    {
+        "imageAssetName": "aksara_ta.png",
+        "latin": "Ta",
+        "description_id": "Aksara wianjana untuk konsonan 't'",
+        "description_en": "Wianjana character for consonant 't'"
+    },
+    {
+        "imageAssetName": "aksara_sa.png",
+        "latin": "Sa",
+        "description_id": "Aksara wianjana untuk konsonan 's'",
+        "description_en": "Wianjana character for consonant 's'"
+    },
+    {
+        "imageAssetName": "aksara_wa.png",
+        "latin": "Wa",
+        "description_id": "Aksara wianjana untuk konsonan 'w'",
+        "description_en": "Wianjana character for consonant 'w'"
+    },
+    {
+        "imageAssetName": "aksara_la.png",
+        "latin": "La",
+        "description_id": "Aksara wianjana untuk konsonan 'l'",
+        "description_en": "Wianjana character for consonant 'l'"
+    },
+    {
+        "imageAssetName": "aksara_ma.png",
+        "latin": "Ma",
+        "description_id": "Aksara wianjana untuk konsonan 'm'",
+        "description_en": "Wianjana character for consonant 'm'"
+    },
+    {
+        "imageAssetName": "aksara_ga.png",
+        "latin": "Ga",
+        "description_id": "Aksara wianjana untuk konsonan 'g'",
+        "description_en": "Wianjana character for consonant 'g'"
+    },
+    {
+        "imageAssetName": "aksara_ba.png",
+        "latin": "Ba",
+        "description_id": "Aksara wianjana untuk konsonan 'b'",
+        "description_en": "Wianjana character for consonant 'b'"
+    },
+    {
+        "imageAssetName": "aksara_nga.png",
+        "latin": "Nga",
+        "description_id": "Aksara wianjana untuk konsonan 'ng'",
+        "description_en": "Wianjana character for consonant 'ng'"
+    },
+    {
+        "imageAssetName": "aksara_pa.png",
+        "latin": "Pa",
+        "description_id": "Aksara wianjana untuk konsonan 'p'",
+        "description_en": "Wianjana character for consonant 'p'"
+    },
+    {
+        "imageAssetName": "aksara_ja.png",
+        "latin": "Ja",
+        "description_id": "Aksara wianjana untuk konsonan 'j'",
+        "description_en": "Wianjana character for consonant 'j'"
+    },
+    {
+        "imageAssetName": "aksara_ya.png",
+        "latin": "Ya",
+        "description_id": "Aksara wianjana untuk konsonan 'y'",
+        "description_en": "Wianjana character for consonant 'y'"
+    },
+    {
+        "imageAssetName": "aksara_nya.png",
+        "latin": "Nya",
+        "description_id": "Aksara wianjana untuk konsonan 'ny'",
+        "description_en": "Wianjana character for consonant 'ny'"
+    },
+    {
+        "imageAssetName": "gantungan_ha.png",
+        "latin": "Gantungan Ha",
+        "description_id": "Gantungan dari aksara Ha",
+        "description_en": "Subjoined form of Ha"
+    },
+    {
+        "imageAssetName": "gantungan_na.png",
+        "latin": "Gantungan Na",
+        "description_id": "Gantungan dari aksara Na",
+        "description_en": "Subjoined form of Na"
+    },
+    {
+        "imageAssetName": "gantungan_ca.png",
+        "latin": "Gantungan Ca",
+        "description_id": "Gantungan dari aksara Ca",
+        "description_en": "Subjoined form of Ca"
+    },
+    {
+        "imageAssetName": "gantungan_ra.png",
+        "latin": "Gantungan Ra",
+        "description_id": "Gantungan dari aksara Ra",
+        "description_en": "Subjoined form of Ra"
+    },
+    {
+        "imageAssetName": "gantungan_ka.png",
+        "latin": "Gantungan Ka",
+        "description_id": "Gantungan dari aksara Ka",
+        "description_en": "Subjoined form of Ka"
+    },
+    {
+        "imageAssetName": "gantungan_da.png",
+        "latin": "Gantungan Da",
+        "description_id": "Gantungan dari aksara Da",
+        "description_en": "Subjoined form of Da"
+    },
+    {
+        "imageAssetName": "gantungan_ta.png",
+        "latin": "Gantungan Ta",
+        "description_id": "Gantungan dari aksara Ta",
+        "description_en": "Subjoined form of Ta"
+    },
+    {
+        "imageAssetName": "gantungan_sa.png",
+        "latin": "Gantungan Sa",
+        "description_id": "Gantungan dari aksara Sa",
+        "description_en": "Subjoined form of Sa"
+    },
+    {
+        "imageAssetName": "gantungan_wa.png",
+        "latin": "Gantungan Wa",
+        "description_id": "Gantungan dari aksara Wa",
+        "description_en": "Subjoined form of Wa"
+    },
+    {
+        "imageAssetName": "gantungan_la.png",
+        "latin": "Gantungan La",
+        "description_id": "Gantungan dari aksara La",
+        "description_en": "Subjoined form of La"
+    },
+    {
+        "imageAssetName": "gantungan_ma.png",
+        "latin": "Gantungan Ma",
+        "description_id": "Gantungan dari aksara Ma",
+        "description_en": "Subjoined form of Ma"
+    },
+    {
+        "imageAssetName": "gantungan_ga.png",
+        "latin": "Gantungan Ga",
+        "description_id": "Gantungan dari aksara Ga",
+        "description_en": "Subjoined form of Ga"
+    },
+    {
+        "imageAssetName": "gantungan_ba.png",
+        "latin": "Gantungan Ba",
+        "description_id": "Gantungan dari aksara Ba",
+        "description_en": "Subjoined form of Ba"
+    },
+    {
+        "imageAssetName": "gantungan_nga.png",
+        "latin": "Gantungan Nga",
+        "description_id": "Gantungan dari aksara Nga",
+        "description_en": "Subjoined form of Nga"
+    },
+    {
+        "imageAssetName": "gantungan_pa.png",
+        "latin": "Gantungan Pa",
+        "description_id": "Gantungan dari aksara Pa",
+        "description_en": "Subjoined form of Pa"
+    },
+    {
+        "imageAssetName": "gantungan_ja.png",
+        "latin": "Gantungan Ja",
+        "description_id": "Gantungan dari aksara Ja",
+        "description_en": "Subjoined form of Ja"
+    },
+    {
+        "imageAssetName": "gantungan_ya.png",
+        "latin": "Gantungan Ya",
+        "description_id": "Gantungan dari aksara Ya",
+        "description_en": "Subjoined form of Ya"
+    },
+    {
+        "imageAssetName": "gantungan_nya.png",
+        "latin": "Gantungan Nya",
+        "description_id": "Gantungan dari aksara Nya",
+        "description_en": "Subjoined form of Nya"
+    },
+    {
+        "imageAssetName": "pengangge_tedong.png",
+        "latin": "Tedong",
+        "description_id": "Pengangge suara vokal 'a'",
+        "description_en": "Vowel sign for 'a'"
+    },
+    {
+        "imageAssetName": "pengangge_ulu.png",
+        "latin": "Ulu",
+        "description_id": "Pengangge suara vokal 'i'",
+        "description_en": "Vowel sign for 'i'"
+    },
+    {
+        "imageAssetName": "pengangge_suku.png",
+        "latin": "Suku",
+        "description_id": "Pengangge suara vokal 'u'",
+        "description_en": "Vowel sign for 'u'"
+    },
+    {
+        "imageAssetName": "pengangge_taleng.png",
+        "latin": "Taleng",
+        "description_id": "Pengangge suara vokal 'e'",
+        "description_en": "Vowel sign for 'e'"
+    },
+    {
+        "imageAssetName": "pengangge_tedongtelu.png",
+        "latin": "Tedong Telu",
+        "description_id": "Pengangge suara vokal 'o'",
+        "description_en": "Vowel sign for 'o'"
+    },
+    {
+        "imageAssetName": "pengangge_pepet.png",
+        "latin": "Pepet",
+        "description_id": "Pengangge suara vokal 'ə'",
+        "description_en": "Vowel sign for 'ə'"
+    },
+    {
+        "imageAssetName": "angka_bali_0.png",
+        "latin": "0",
+        "description_id": "Angka Bali 0",
+        "description_en": "Balinese number 0"
+    },
+    {
+        "imageAssetName": "angka_bali_1.png",
+        "latin": "1",
+        "description_id": "Angka Bali 1 - Satu",
+        "description_en": "Balinese number 1 - One"
+    },
+    {
+        "imageAssetName": "angka_bali_2.png",
+        "latin": "2",
+        "description_id": "Angka Bali 2 - Dua",
+        "description_en": "Balinese number 2 - Two"
+    },
+    {
+        "imageAssetName": "angka_bali_3.png",
+        "latin": "3",
+        "description_id": "Angka Bali 3 - Tiga",
+        "description_en": "Balinese number 3 - Three"
+    },
+    {
+        "imageAssetName": "angka_bali_4.png",
+        "latin": "4",
+        "description_id": "Angka Bali 4 - Empat",
+        "description_en": "Balinese number 4 - Four"
+    },
+    {
+        "imageAssetName": "angka_bali_5.png",
+        "latin": "5",
+        "description_id": "Angka Bali 5 - Lima",
+        "description_en": "Balinese number 5 - Five"
+    },
+    {
+        "imageAssetName": "angka_bali_6.png",
+        "latin": "6",
+        "description_id": "Angka Bali 6 - Enam",
+        "description_en": "Balinese number 6 - Six"
+    },
+    {
+        "imageAssetName": "angka_bali_7.png",
+        "latin": "7",
+        "description_id": "Angka Bali 7 - Tujuh",
+        "description_en": "Balinese number 7 - Seven"
+    },
+    {
+        "imageAssetName": "angka_bali_8.png",
+        "latin": "8",
+        "description_id": "Angka Bali 8 - Delapan",
+        "description_en": "Balinese number 8 - Eight"
+    },
+    {
+        "imageAssetName": "angka_bali_9.png",
+        "latin": "9",
+        "description_id": "Angka Bali 9 - Sembilan",
+        "description_en": "Balinese number 9 - Nine"
+    },
+    {
+        "imageAssetName": "a_kara.png",
+        "latin": "a-kara",
+        "description_id": "A-kara adalah aksara vokal yang mewakili bunyi 'a'",
+        "description_en": "A-kara is a vowel character representing the sound 'a'"
+    },
+    {
+        "imageAssetName": "i_kara.png",
+        "latin": "i-kara",
+        "description_id": "I-kara adalah aksara vokal yang mewakili bunyi 'i'",
+        "description_en": "I-kara is a vowel character representing the sound 'i'"
+    },
+    {
+        "imageAssetName": "u_kara.png",
+        "latin": "u-kara",
+        "description_id": "U-kara adalah aksara vokal yang mewakili bunyi 'u'",
+        "description_en": "U-kara is a vowel character representing the sound 'u'"
+    },
+    {
+        "imageAssetName": "e_kara.png",
+        "latin": "e-kara",
+        "description_id": "e-kara adalah aksara vokal yang mewakili bunyi 'e'",
+        "description_en": "e-kara is a vowel character representing the sound 'e'"
+    },
+    {
+        "imageAssetName": "lelenga.png",
+        "latin": "Lelenga",
+        "description_id": "Lelenga melambangkan vokal 'Le'",
+        "description_en": "Lelenga represents the vowel 'Le'"
+    },
+    {
+        "imageAssetName": "rerepa.png",
+        "latin": "Rerepa",
+        "description_id": "Rerepa mewakili vokal 're' dalam aksara Bali",
+        "description_en": "Rerepa represents the vowel 're' in Balinese script"
+    }
+]

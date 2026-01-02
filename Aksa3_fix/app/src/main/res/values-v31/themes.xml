@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- tema umum aplikasi -->
+    <style name="Theme.Aksa" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- tema untuk LAUNCHER activity, meniadakan ikon splash sistem -->
+    <style name="Theme.Aksa.NoSystemSplash" parent="Theme.Aksa">
+        <!-- samakan warna dengan splash Compose kamu -->
+        <item name="android:windowSplashScreenBackground">#FFA41A</item>
+
+        <!-- paksa ikon splash jadi transparan (tidak terlihat) -->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/transparent</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+
+        <!-- jangan taruh branding -->
+        <item name="android:windowSplashScreenBrandingImage">@null</item>
+
+        <!-- jaga-jaga, kosongkan background window awal -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+</resources>
+
+
+

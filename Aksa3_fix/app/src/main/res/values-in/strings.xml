@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aksa</string>
+    <string name="title_home">Aksa Lens</string>
+    <string name="settings">Pengaturan</string>
+    <string name="toggle_flash">Nyalakan Lampu</string>
+    <string name="gallery">Galeri</string>
+    <string name="capture">Ambil Gambar</string>
+    <string name="switch_camera">Ganti Kamera</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_dictionary">Kamus</string>
+
+    <!-- DictionaryPage -->
+    <string name="search_hint">Cari Aksara Bali</string>
+    <string name="label_latin">Latin : %1$s</string>
+    <string name="label_description">Deskripsi : %1$s</string>
+    <string name="aksara_image_desc">Gambar Aksara</string>
+    <string name="close">Close</string>
+    <string name="menu_app_guide">Panduan</string>
+
+
+    <!-- SettingPage -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="language_app">Bahasa Aplikasi</string>
+    <string name="language_dialog_title">Pilih Bahasa</string>
+    <string name="language_indonesia">Indonesia</string>
+    <string name="language_english">Inggris</string>
+    <string name="cancel">Batal</string>
+    <string name="about_app">Tentang Aplikasi</string>
+    <string name="back">Kembali</string>
+
+    <!-- AboutPage -->
+    <string name="app_name_version">AKSA v1.0</string>
+    <string name="app_description">Aplikasi ini dibuat untuk membantu pembelajaran dan pelestarian Aksara Bali melalui teknologi AI dan deteksi visual secara real-time.</string>
+    <string name="developed_by">Dikembangkan oleh tim @Mari.Aksa</string>
+
+    <string name="tour_home_gallery_title">Pilih dari Galeri</string>
+    <string name="tour_home_gallery_desc">Ambil gambar dari galeri untuk dideteksi.</string>
+
+    <string name="tour_home_shutter_title">Ambil Foto</string>
+    <string name="tour_home_shutter_desc">Ketuk untuk memotret dan deteksi aksara.</string>
+
+    <string name="tour_home_flip_title">Ganti Kamera</string>
+    <string name="tour_home_flip_desc">Beralih antara kamera depan/belakang.</string>
+
+    <!-- Tour Kamus -->
+    <string name="tour_dict_search_title">Cari Aksara</string>
+    <string name="tour_dict_search_desc">
+    Gunakan kolom ini untuk mencari aksara Bali.
+</string>
+
+    <string name="tour_dict_preview_title">Pratinjau Gambar</string>
+    <string name="tour_dict_preview_desc">
+    Ketuk gambar untuk melihat pratinjau lebih besar.
+</string>
+
+    <string name="tour_dict_settings_title">Pengaturan</string>
+    <string name="tour_dict_settings_desc">
+    Buka pengaturan aplikasi dari sini.
+</string>
+
+    <!-- Tour Pengaturan -->
+    <string name="tour_settings_language_title">Bahasa Aplikasi</string>
+    <string name="tour_settings_language_desc">Ubah bahasa tampilan.</string>
+
+    <string name="tour_settings_about_title">Tentang Aplikasi</string>
+    <string name="tour_settings_about_desc">Lihat informasi tentang aplikasi.</string>
+
+    <string name="tour_settings_guide_title">Panduan Aplikasi</string>
+    <string name="tour_settings_guide_desc">Buka panduan interaktif kapan saja.</string>
+
+    <!-- Guide Buttons -->
+    <string name="guide_skip">Lewati</string>
+    <string name="guide_done">Selesai</string>
+    <string name="guide_next">Berikutnya</string>
+    <string name="guide_prev">Sebelumnya</string>
+
+
+</resources>
+
+

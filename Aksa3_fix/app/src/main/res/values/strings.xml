@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Aksa</string>
+    <string name="title_home">Aksa Lens</string>
+    <string name="settings">Settings</string>
+    <string name="toggle_flash">Toggle Flash</string>
+    <string name="gallery">Gallery</string>
+    <string name="capture">Capture</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_dictionary">Dictionary</string>
+
+    <!-- DictionaryPage -->
+    <string name="search_hint">Search Balinese Script</string>
+    <string name="label_latin">Latin : %1$s</string>
+    <string name="label_description">Description : %1$s</string>
+    <string name="aksara_image_desc">Script Image</string>
+    <string name="close">Close</string>
+
+    <!-- SettingPage -->
+    <string name="settings_title">Settings</string>
+    <string name="language_app">App Language</string>
+    <string name="language_dialog_title">Choose Language</string>
+    <string name="language_indonesia">Indonesian</string>
+    <string name="language_english">English</string>
+    <string name="cancel">Cancel</string>
+    <string name="about_app">About App</string>
+    <string name="back">Back</string>
+    <string name="menu_app_guide">Guide</string>
+
+    <!-- AboutPage -->
+    <string name="app_name_version">AKSA v1.0</string>
+    <string name="app_description">This app is created to support learning and preservation of Balinese script through AI technology and real-time visual detection.</string>
+    <string name="developed_by">Developed by the @Mari.Aksa team</string>
+
+    <string name="tour_home_gallery_title">Pick from Gallery</string>
+    <string name="tour_home_gallery_desc">Choose an image from your gallery to detect Balinese script.</string>
+
+    <string name="tour_home_shutter_title">Take Photo</string>
+    <string name="tour_home_shutter_desc">Tap to capture and detect the script.</string>
+
+    <string name="tour_home_flip_title">Switch Camera</string>
+    <string name="tour_home_flip_desc">Switch between front and back cameras.</string>
+
+    <!-- Dictionary Tour -->
+    <string name="tour_dict_search_title">Search Script</string>
+    <string name="tour_dict_search_desc">
+    Use this field to search Balinese script.
+</string>
+
+    <string name="tour_dict_preview_title">Image Preview</string>
+    <string name="tour_dict_preview_desc">
+    Tap the image to view it in a larger preview.
+</string>
+
+    <string name="tour_dict_settings_title">Settings</string>
+    <string name="tour_dict_settings_desc">
+    Open app settings from here.
+</string>
+
+    <!-- Settings Tour -->
+    <string name="tour_settings_language_title">App Language</string>
+    <string name="tour_settings_language_desc">Change the display language.</string>
+
+    <string name="tour_settings_about_title">About App</string>
+    <string name="tour_settings_about_desc">View information about the app.</string>
+
+    <string name="tour_settings_guide_title">App Guide</string>
+    <string name="tour_settings_guide_desc">Open the interactive guide anytime.</string>
+
+    <string name="guide_skip">Skip</string>
+    <string name="guide_done">Done</string>
+    <string name="guide_next">Next</string>
+    <string name="guide_prev">Previous</string>
+</resources>
+
